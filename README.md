@@ -2,13 +2,13 @@
 
 This is a demo application
 
-##Prerequisites
+## Prerequisites
 The following software need to be installed and added to the system path.
 ```
 Maven, JDK 8
 ```
 
-##Running the application
+## Running the application
 
 Get a copy of the application
 ```
