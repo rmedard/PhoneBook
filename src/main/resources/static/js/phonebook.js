@@ -15,7 +15,6 @@ function search() {
         dataType: 'json',
         cache: false,
         success: function (data) {
-            console.log("Success: ", data);
             var output = '';
             for (var i = 0; i < data.length; i++) {
                 var phoneEntry = data[i];
